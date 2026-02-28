@@ -6,7 +6,7 @@
 
 Working toward submission of the **Nancy Tannery Grant for OER** (deadline: March 18, 2026). Project involves creating a modular set of 8–12 OER modules on generative AI integration in academic writing instruction, for immediate use in Fall 2026 "Authorship & AI" course and adaptable across other writing-intensive courses (INFSCI 2205, ESL writing, etc.). Materials to be released under CC-BY license.
 
-## Session: 2026-02-28
+## Session: 2026-02-28 #1
 
 ### Goal
 
@@ -37,3 +37,11 @@ The repo exists and is ready for the next phase of setup. Nothing has been teste
 -   Add a test Markdown file and attempt to build output (HTML or PDF) to verify the pipeline works
 -   Decide on module file naming/organization conventions before adding real content
 -   Begin drafting at least one module stub so the workflow is demonstrated prior to grant submission
+## Session: 2026-02-28 2
+- added starter `metadata.yml` file
+- enabled `github pages` to enable the site to be built
+- added some test MD files to `original` directory
+- saw on "actions" tab that several actions are listed as *Queued*, all the way back to the first one of 12:29 PM
+  - Does this mean they're not working? or does it mean this initial setup takes some hours (?) and just needs to be left alone?
+  - Preliminary decision: Stop work; check back another day; troubleshoot further if actions still appear stuck
+  - Actually going to try cancelling actions and pushing this commit to see if it nudges anything
