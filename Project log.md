@@ -44,3 +44,4 @@ The repo exists and is ready for the next phase of setup. Nothing has been teste
 - saw on "actions" tab that several actions are listed as *Queued*, all the way back to the first one of 12:29 PM
   - Does this mean they're not working? or does it mean this initial setup takes some hours (?) and just needs to be left alone?
   - Preliminary decision: Stop work; check back another day; troubleshoot further if actions still appear stuck
+  - Actually going to try cancelling actions and pushing this commit to see if it nudges anything
