@@ -10,17 +10,14 @@ on:
 
 jobs:
   publish_textbook:
-    runs-on: ubuntu-20.04
+    runs-on: ubuntu-24.04
     steps:
       
       - name: Download Source Files
         uses: actions/checkout@v3
-      
-      - name: Enable Homebrew
-        uses: raviqqe/enable-homebrew@v0.1.0
 
       - name: Setup Pandoc
-        run: brew install pandoc pandoc-crossref
+        run: sudo apt-get install -y pandoc pandoc-crossref
 
       - name: Setup PagedJS-CLI
         run: npm install -g pagedjs-cli pagedjs 
