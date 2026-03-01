@@ -25,9 +25,9 @@ jobs:
           tar -xf pandoc-crossref-Linux.tar.xz
           sudo mv pandoc-crossref /usr/local/bin/
 
-      - name: Setup PagedJS-CLI
-        timeout-minutes: 6
-        run: npm install -g pagedjs-cli pagedjs 
+#      - name: Setup PagedJS-CLI
+#        timeout-minutes: 6
+#        run: npm install -g pagedjs-cli pagedjs 
 
       - name: Build Website
         run: |
