@@ -10,3 +10,18 @@
     color: #4fc3f7;
     text-decoration: underline;
 }
+
+/* when theme is auto and OS is in light mode */
+@media (prefers-color-scheme: light) {
+    [data-theme="auto"] a {
+        color: #0066cc;
+        text-decoration: underline;
+    }
+}
+
+@media (prefers-color-scheme: dark) {
+    [data-theme="auto"] a {
+        color: #4fc3f7;
+        text-decoration: underline;
+    }
+}
