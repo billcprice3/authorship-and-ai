@@ -1,1 +1,12 @@
 /* add your custom styles below */
+/* light theme only */
+[data-theme="light"] a {
+    color: #0066cc;
+    text-decoration: underline;
+}
+
+/* dark theme only */
+[data-theme="dark"] a {
+    color: #4fc3f7;
+    text-decoration: underline;
+}
