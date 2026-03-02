@@ -13,6 +13,8 @@ chapter: 010
     * [Generative AI Tools](#generative-ai-tools)
 * [Intructor Notes](#instructor-notes)
 
+---
+
 ## Overview
 
 In this course, you’ll be expected to learn and use a small set of tools that work together to support academic writing. Similar to how software engineers use a specific combination of tools (like a code editor, version control system, and testing environment), we’ll use a “stack” of writing software that helps with research, formatting, citation, and even idea generation. These tools are not just for this class. They are the kinds of software that many graduate students and researchers use every day in real academic and professional work.
@@ -52,7 +54,11 @@ Before we move forward in the course, it's important to make sure your writing t
 
 This activity is worth 2 points (complete/incomplete). For this first check-in, we want to hear your own personal goal in your own words. The purpose is for you to reflect on your needs and for us to get to know you better. *Please no AI generated text in your response; only your own words.*
 
+---
+
 ## Setup Guides
+
+---
 
 ### Microsoft Word and PowerPoint
 
@@ -73,6 +79,8 @@ Follow these steps to install the Microsoft Office suite, including Word, using 
 7. When installation finishes, open Word. Sign in again with your Pitt email to activate Office.
 
 You only need to install the apps you’ll actually use. **Word** and **PowerPoint** are the minimum requirements for this course. Other programs (Excel, etc.) are optional.
+
+---
 
 ### Zotero
 
@@ -106,6 +114,8 @@ If the Zotero tab does not appear in Word:
 4. Click `Word Processors`, then click `Install Microsoft Word Add-in`
 5. Restart Word and check again
 
+---
+
 ### Generative AI Tools
 
 This resource is designed to help you identify and access several of the most widely used and relevant Large Language Model-based AI tools (LLMs) available. Whether you're new to these tools or looking to explore beyond ChatGPT, this guide will provide you with the essentials: what each model is, how to access it, and how to start using it for academic and professional ideation tasks.
@@ -117,6 +127,8 @@ This guide includes three categories of models:
 2. Other Frontier Models (freely accessible, web-based models not administered by the university)
 
 3. Local Models (runs on your own device for complete privacy and offline use)
+
+---
 
 #### 1. Tools Provided by Generative AI @ Pitt
 
@@ -156,6 +168,8 @@ address
 
 All four of these tools are secured for appropriate use with Pitt-affiliated content. If you're working with sensitive, institutional, research, or FERPA-protected data, you should prioritize these over third-party tools not governed by the university.
 
+---
+
 #### 2. Other Frontier Models
 
 This section lists some additional state-of-the-art ("frontier") AI tools. These tools are not officially supported by Pitt Digital, but they are broadly used and accessible via free or paid accounts. They can be accessed through your web browser and require no installation.
@@ -184,6 +198,8 @@ This section lists some additional state-of-the-art ("frontier") AI tools. These
 - Requires an internet connection to use, but can be installed as a
   local web application: see [Installing a web-based AI tool as a desktop app](#installing-a-web-based-ai-tool-as-a-desktop-app)
 
+---
+  
 #### 3. Local Models with LM Studio
 
 While frontier models like ChatGPT, Claude, and DeepSeek run entirely in the cloud, it’s also possible to run large language models locally on your own computer. This gives you more control over your data and allows for offline use. The easiest way to get started is with a tool called **LM Studio**.
@@ -271,6 +287,8 @@ The icon for the AI tool will now appear in your Dock. Clicking it will launch t
 * **Google Chrome:** Chrome has excellent PWA support on both Windows and macOS. The process is very similar to Edge's. Simply navigate to the website and look for an install icon (a screen with a downward arrow) on the right side of the address bar, or find the "Install..." option in the main Chrome menu.
 
 * **Mozilla Firefox:** Firefox does not have a native, built-in feature for installing PWAs. There is a more limited feature called "[Taskbar Tabs](Taskbar Tabs Links to an external site.)", but this feature is available only for the Windows version of FireFox. Firefox users are advised to use one of the other browsers (Edge, Safari, or Chrome) for this specific task, or else explore third-party add-ins or extensions for Firefox that provide unofficial PWA support.
+
+---
 
 ## Instructor Notes
 
