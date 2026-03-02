@@ -11,6 +11,7 @@ chapter: 010
     * [Microsoft Word and PowerPoint](#microsoft-word-and-powerpoint)
     * [Zotero](#zotero)
     * [Generative AI Tools](#generative-ai-tools)
+    * [Virtual Student Computing Lab](#virtual-student-computing-lab)
 * [Instructor Notes](#instructor-notes)
 
 ---
@@ -287,6 +288,44 @@ The icon for the AI tool will now appear in your Dock. Clicking it will launch t
 * **Google Chrome:** Chrome has excellent PWA support on both Windows and macOS. The process is very similar to Edge's. Simply navigate to the website and look for an install icon (a screen with a downward arrow) on the right side of the address bar, or find the "Install..." option in the main Chrome menu.
 
 * **Mozilla Firefox:** Firefox does not have a native, built-in feature for installing PWAs. There is a more limited feature called "[Taskbar Tabs](Taskbar Tabs Links to an external site.)", but this feature is available only for the Windows version of FireFox. Firefox users are advised to use one of the other browsers (Edge, Safari, or Chrome) for this specific task, or else explore third-party add-ins or extensions for Firefox that provide unofficial PWA support.
+
+---
+
+### Virtual Student Computing Lab
+
+#### When to Use This Tool
+
+Many of our assignments will require you to use the full desktop versions of software like Microsoft Word and Zotero. If you are primarily using a device such as a tablet and do not have a personal laptop or desktop computer, the Virtual Student Computing Lab is the perfect solution for you. It gives you free, 24/7 access to a full Pitt computer from anywhere with an internet connection.
+
+#### What It Is
+
+The Virtual Student Computing Lab is a powerful tool that lets you connect to a university lab computer through your web browser or a simple app. It's like having access to a computer in Hillman Library, but from your own device, wherever you are. You can use all the standard university software, install tools like Zotero for your own use, and save your work to your cloud storage (like OneDrive).
+
+#### How to Access the Virtual Lab
+
+##### Recommended Method: Use Windows App to Access the Virtual Student Computing Lab
+
+1. Download, install, and open "Windows App" from your platform's store. See links below:
+    * [Windows App for iPhones and iPads](https://apps.apple.com/us/app/windows-app-mobile/id714464092)
+    * [Windows App for Android devices and ChromeBooks](https://play.google.com/store/apps/details?id=com.microsoft.rdc.androidx)
+    * [Windows App for MacBooks and iMacs](https://apps.apple.com/us/app/windows-app/id1295203466?mt=12)
+2. Sign in with your Pitt email address by hitting the `+` button and then `Work or School Account`. You may be prompted with the standard Pitt Passport login after entering your Pitt email address.
+3. Tap the `Pitt Digital - Virtual Student Computing Lab` button.
+4. Enter your University Computing Account username and password to complete the login process.
+
+##### Other method: Web access
+
+You can connect to the Virtual Lab at any time by going to this simple, official Pitt URL:
+
+🔗 [https://pi.tt/vlab](https://pi.tt/vlab)
+
+You will be asked to sign in with your Pitt email address and password.
+
+#### For More Information
+
+Pitt Digital has a detailed guide with instructions for connecting from different devices (Windows, Mac, iPad, etc.) and answers to common questions. For a more detailed walkthrough, please see the official knowledge base article:
+
+🔗 [Virtual Student Computing Lab - Official Pitt Guide](https://services.pitt.edu/TDClient/33/Portal/KB/ArticleDet?ID=230)
 
 ---
 
