@@ -333,12 +333,8 @@ Pitt Digital has a detailed guide with instructions for connecting from differen
 
 **Implementation guidance:**
 
-- tips here
+- Note that this guide is written for students at the University of Pittsburgh. It may contain useful information for those in other contexts, but instructors may need to edit these materials to provide institution-specific guidance.
 
 **Prerequisite knowledge:**
-
-- tips here
-
-**Connections to other modules:**
 
 - tips here
