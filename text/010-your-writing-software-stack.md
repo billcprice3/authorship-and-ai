@@ -4,6 +4,15 @@ chapter: 010
 
 # Your Writing Software Stack
 
+## Table of Contents
+
+* [Overview](#overview)
+* [Setup Guides](#setup-guides)
+    * [Microsoft Word and PowerPoint](#microsoft-word-and-powerpoint)
+    * [Zotero](#zotero)
+    * [Generative AI Tools](#generative-ai-tools)
+* [Intructor Notes](#instructor-notes)
+
 ## Overview
 
 In this course, you’ll be expected to learn and use a small set of tools that work together to support academic writing. Similar to how software engineers use a specific combination of tools (like a code editor, version control system, and testing environment), we’ll use a “stack” of writing software that helps with research, formatting, citation, and even idea generation. These tools are not just for this class. They are the kinds of software that many graduate students and researchers use every day in real academic and professional work.
@@ -45,7 +54,7 @@ This activity is worth 2 points (complete/incomplete). For this first check-in, 
 
 ## Setup Guides
 
-## Microsoft Word and PowerPoint
+### Microsoft Word and PowerPoint
 
 Follow these steps to install the Microsoft Office suite, including Word, using your Pitt account:
 
@@ -65,7 +74,7 @@ Follow these steps to install the Microsoft Office suite, including Word, using 
 
 You only need to install the apps you’ll actually use. **Word** and **PowerPoint** are the minimum requirements for this course. Other programs (Excel, etc.) are optional.
 
-## Zotero
+### Zotero
 
 Zotero is free software that helps you collect, organize, and cite sources for your academic writing. In this course, you'll use Zotero to save the articles and resources you find, insert in-text citations into your Word documents, and automatically generate a properly formatted reference list in APA style. Once it's set up, Zotero makes it easier to manage your sources and avoid citation mistakes, especially when working on longer writing projects with many references.
 
@@ -85,7 +94,7 @@ Use the steps below to install Zotero and get the Word citation plugin working:
 
 6. Recommended: Set up a Zotero account to enable Syncing. See the Zotero help page: [Syncing](https://www.zotero.org/support/sync) 
 
-### Troubleshooting
+#### Troubleshooting
 
 If the Zotero tab does not appear in Word:
 
@@ -97,7 +106,7 @@ If the Zotero tab does not appear in Word:
 4. Click `Word Processors`, then click `Install Microsoft Word Add-in`
 5. Restart Word and check again
 
-## Generative AI Tools
+### Generative AI Tools
 
 This resource is designed to help you identify and access several of the most widely used and relevant Large Language Model-based AI tools (LLMs) available. Whether you're new to these tools or looking to explore beyond ChatGPT, this guide will provide you with the essentials: what each model is, how to access it, and how to start using it for academic and professional ideation tasks.
 
@@ -109,25 +118,25 @@ This guide includes three categories of models:
 
 3. Local Models (runs on your own device for complete privacy and offline use)
 
-### 1. Tools Provided by Generative AI @ Pitt
+#### 1. Tools Provided by Generative AI @ Pitt
 
 The University of Pittsburgh provides access to several generative AI platforms through Pitt Digital (See: [Generative AI @ Pitt](https://www.technology.pitt.edu/ai)). These tools are vetted for institutional use and comply with university data protection policies. All are available for free and can be used with your Pitt credentials.
 
-#### Claude (Anthropic) (🇺🇸)
+##### Claude (Anthropic) (🇺🇸)
 
 **Access:** [https://claude.ai](https://claude.ai/) </a>using your Pitt email address
 
 - Pitt students and faculty have access to all the "[Claude for Education](https://services.pitt.edu/TDClient/33/Portal/KB/ArticleDet?ID=3357)" enterprise features, including tools such as projects, artifacts, memory, and file uploads
 - Requires an internet connection to use, but has a first-party desktop application: [https://claude.ai/download](https://claude.ai/download)
 
-#### Microsoft 365 Copilot Chat (🇺🇸)
+##### Microsoft 365 Copilot Chat (🇺🇸)
 
 **Access:** [https://m365.cloud.microsoft/chat/](https://m365.cloud.microsoft/chat/) using your Pitt email address
 
 - In addition to the chat interface, Copilot tools are integrated directly into many Microsoft products such as Word and PowerPoint
 - Chat interface requires an internet connection to use, but can be installed as a local web application: see [Installing a web-based AI tool as a desktop app](#installing-a-web-based-ai-tool-as-a-desktop-app)
 
-#### Google Gemini (🇺🇸)
+##### Google Gemini (🇺🇸)
 
 **Access:** [https://gemini.google.com/app](https://gemini.google.com/app) using your Pitt email address
 
@@ -135,9 +144,7 @@ The University of Pittsburgh provides access to several generative AI platforms 
 - Can generate text, assist with brainstorming, and interact with Google Drive files (Docs, Sheets, Slides, etc.)
 - Requires an internet connection to use, but can be installed as a local web application: see [Installing a web-based AI tool as a desktop app](#installing-a-web-based-ai-tool-as-a-desktop-app)
 
-------------------------------------------------------------------------
-
-#### Google NotebookLM (🇺🇸)
+##### Google NotebookLM (🇺🇸)
 
 **Access:** [https://notebooklm.google.com](https://notebooklm.google.com) using your Pitt email
 address
@@ -146,25 +153,14 @@ address
 - Organizes sources and citations in a structured interface
 - Requires an internet connection to use, but can be installed as a local web application: see [Installing a web-based AI tool as a desktop app](#installing-a-web-based-ai-tool-as-a-desktop-app)
 
-------------------------------------------------------------------------
 
-All four of these tools are secured for appropriate use with
-Pitt-affiliated content. If you're working with sensitive,
-institutional, research, or FERPA-protected data, you should prioritize
-these over third-party tools not governed by the university.
+All four of these tools are secured for appropriate use with Pitt-affiliated content. If you're working with sensitive, institutional, research, or FERPA-protected data, you should prioritize these over third-party tools not governed by the university.
 
-------------------------------------------------------------------------
+#### 2. Other Frontier Models
 
-### 2. Other Frontier Models
+This section lists some additional state-of-the-art ("frontier") AI tools. These tools are not officially supported by Pitt Digital, but they are broadly used and accessible via free or paid accounts. They can be accessed through your web browser and require no installation.
 
-This section lists some additional state-of-the-art ("frontier") AI
-tools. These tools are not officially supported by Pitt Digital, but
-they are broadly used and accessible via free or paid accounts. They can
-be accessed through your web browser and require no installation.
-
-------------------------------------------------------------------------
-
-#### ChatGPT (OpenAI) (🇺🇸)
+##### ChatGPT (OpenAI) (🇺🇸)
 
 **Website:** [https://chatgpt.com])(https://chatgpt.com)
 
@@ -172,7 +168,7 @@ be accessed through your web browser and require no installation.
 - Requires an internet connection to use, but has a first-party desktop
   application: [https://chatgpt.com/download](https://chatgpt.com/download) 
 
-#### DeepSeek Chat (DeepSeek) (🇨🇳)
+##### DeepSeek Chat (DeepSeek) (🇨🇳)
 
 **Website:** [https://chat.deepseek.com](https://chat.deepseek.com)
 
@@ -180,7 +176,7 @@ be accessed through your web browser and require no installation.
 - Requires an internet connection to use, but can be installed as a
   local web application: see [Installing a web-based AI tool as a desktop app](#installing-a-web-based-ai-tool-as-a-desktop-app)
 
-#### Kimi AI (Moonshot AI) (🇨🇳)
+##### Kimi AI (Moonshot AI) (🇨🇳)
 
 **Website:** [https://www.kimi.com/](https://www.kimi.com/)
 
@@ -188,11 +184,11 @@ be accessed through your web browser and require no installation.
 - Requires an internet connection to use, but can be installed as a
   local web application: see [Installing a web-based AI tool as a desktop app](#installing-a-web-based-ai-tool-as-a-desktop-app)
 
-### 3. Local Models with LM Studio
+#### 3. Local Models with LM Studio
 
 While frontier models like ChatGPT, Claude, and DeepSeek run entirely in the cloud, it’s also possible to run large language models locally on your own computer. This gives you more control over your data and allows for offline use. The easiest way to get started is with a tool called **LM Studio**.
 
-#### What is LM Studio?
+##### What is LM Studio?
 
 **Website:** [https://lmstudio.ai](https://lmstudio.ai)
 
@@ -208,7 +204,7 @@ LM Studio is a free desktop application that lets you download and run open-sour
 
 LM Studio is a great entry point for exploring edge models and understanding how modern AI works under the hood.
 
-#### Recommended Model Families for Local Use
+##### Recommended Model Families for Local Use
 
 Several organizations have released high-quality open-weight models suitable for local deployment. Here are some notable families to explore as of late 2025:
 
@@ -221,13 +217,13 @@ Several organizations have released high-quality open-weight models suitable for
 
 When browsing models in LM Studio, look for versions labeled with "GGUF" format and "Q4_K_M" quantization as a good starting point for balancing quality and performance.
 
-#### System Requirements
+##### System Requirements
 
 The main system constraint for running an LLM is memory. I recommend using a system with at least 16 GB of RAM, preferably as video memory. LM Studio will notify you if a model is too large for your hardware.
 
 Speeds depend heavily on factors such as GPU compatibility and memory architecture. Systems with discrete GPUs and systems with Apple Silicon chipsets tend to perform very well; but typical consumer PC laptops may perform more slowly.
 
-#### Why Use Local Models?
+##### Why Use Local Models?
 
 Running models locally provides:
 
@@ -237,7 +233,7 @@ Running models locally provides:
 
 While local models may be slower or less capable than frontier models, they offer valuable security and flexibility and can be a useful part of your academic and professional toolkit.
 
-### Installing a web-based AI tool as a desktop app
+#### Installing a web-based AI tool as a desktop app
 
 Many of the most powerful and up-to-date Large Language Models (LLMs), like Google Gemini and DeepSeek Chat, do not offer a desktop application and are accessed through a web browser. While this makes them universally accessible, it can also mean your AI assistant gets lost in a sea of open tabs.
 
@@ -247,7 +243,7 @@ You can set up your own "desktop app experience" using a built-in browser featur
 
 This guide will walk you through setting up Google Gemini as a PWA, but the same steps can be used for most other web-based tools.
 
-#### How to Pin an AI App on Windows
+##### How to Pin an AI App on Windows
 
 For Windows 10 and 11, the most straightforward method is to use the built-in Microsoft Edge browser.
 
@@ -259,7 +255,7 @@ For Windows 10 and 11, the most straightforward method is to use the built-in Mi
 
 You can now close the window and launch the AI tool directly from its new icon at any time.
 
-#### How to Add an AI App to Your Dock on macOS
+##### How to Add an AI App to Your Dock on macOS
 
 For macOS, the recommended browser for this task is Safari, which offers seamless integration with the Dock.
 
@@ -270,7 +266,7 @@ For macOS, the recommended browser for this task is Safari, which offers seamles
 
 The icon for the AI tool will now appear in your Dock. Clicking it will launch the site in a clean, app-like window without the standard Safari browser interface.
 
-#### Notes on Other Browsers
+##### Notes on Other Browsers
 
 * **Google Chrome:** Chrome has excellent PWA support on both Windows and macOS. The process is very similar to Edge's. Simply navigate to the website and look for an install icon (a screen with a downward arrow) on the right side of the address bar, or find the "Install..." option in the main Chrome menu.
 
@@ -279,10 +275,13 @@ The icon for the AI tool will now appear in your Dock. Clicking it will launch t
 ## Instructor Notes
 
 **Implementation guidance:**
+
 - tips here
 
 **Prerequisite knowledge:**
+
 - tips here
 
 **Connections to other modules:**
+
 - tips here
