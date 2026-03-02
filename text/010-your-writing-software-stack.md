@@ -11,7 +11,7 @@ chapter: 010
     * [Microsoft Word and PowerPoint](#microsoft-word-and-powerpoint)
     * [Zotero](#zotero)
     * [Generative AI Tools](#generative-ai-tools)
-* [Intructor Notes](#instructor-notes)
+* [Instructor Notes](#instructor-notes)
 
 ---
 
