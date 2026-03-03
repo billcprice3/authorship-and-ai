@@ -380,6 +380,10 @@ Any tool combination that supports your writing process effectively is valid. Th
 
 ---
 
+[**Back to Start of Chapter**](#your-writing-software-stack)
+
+[**Back to Home**](https://billcprice3.github.io/authorship-and-ai/index.html)
+
 **License:** This chapter is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
 **Cite this chapter as:** Price, B. (2026). Your Writing Software Stack. In *Authorship & AI: Modular OER for Responsible Academic Writing with Generative Tools*. University of Pittsburgh. [https://billcprice3.github.io/authorship-and-ai/010-your-writing-software-stack.html](https://billcprice3.github.io/authorship-and-ai/010-your-writing-software-stack.html)
