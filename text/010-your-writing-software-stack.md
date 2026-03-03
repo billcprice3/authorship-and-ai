@@ -60,9 +60,13 @@ This activity is worth 2 points (complete/incomplete). For this first check-in, 
 
 ## Setup Guides
 
+[*Back to Table of Contents*](#table-of-contents)
+
 ---
 
 ### Microsoft Word and PowerPoint
+
+[*Back to Table of Contents*](#table-of-contents)
 
 Follow these steps to install the Microsoft Office suite, including Word, using your Pitt account:
 
@@ -85,6 +89,8 @@ You only need to install the apps you’ll actually use. **Word** and **PowerPoi
 ---
 
 ### Zotero
+
+[*Back to Table of Contents*](#table-of-contents)
 
 Zotero is free software that helps you collect, organize, and cite sources for your academic writing. In this course, you'll use Zotero to save the articles and resources you find, insert in-text citations into your Word documents, and automatically generate a properly formatted reference list in APA style. Once it's set up, Zotero makes it easier to manage your sources and avoid citation mistakes, especially when working on longer writing projects with many references.
 
@@ -119,6 +125,8 @@ If the Zotero tab does not appear in Word:
 ---
 
 ### Generative AI Tools
+
+[*Back to Table of Contents*](#table-of-contents)
 
 This resource is designed to help you identify and access several of the most widely used and relevant Large Language Model-based AI tools (LLMs) available. Whether you're new to these tools or looking to explore beyond ChatGPT, this guide will provide you with the essentials: what each model is, how to access it, and how to start using it for academic and professional ideation tasks.
 
@@ -294,6 +302,8 @@ The icon for the AI tool will now appear in your Dock. Clicking it will launch t
 
 ### Virtual Student Computing Lab
 
+[*Back to Table of Contents*](#table-of-contents)
+
 #### When to Use This Tool
 
 Many of our assignments will require you to use the full desktop versions of software like Microsoft Word and Zotero. If you are primarily using a device such as a tablet and do not have a personal laptop or desktop computer, the Virtual Student Computing Lab is the perfect solution for you. It gives you free, 24/7 access to a full Pitt computer from anywhere with an internet connection.
@@ -331,6 +341,8 @@ Pitt Digital has a detailed guide with instructions for connecting from differen
 ---
 
 ## Alternatives Worth Considering
+
+[*Back to Table of Contents*](#table-of-contents)
 
 The software stack described above represents a minimum viable setup that is widely used across academic contexts. However, different disciplines and individual preferences may favor alternative tools. This section briefly surveys other options worth knowing about, while noting that subsequent modules in this OER will focus specifically on Microsoft Word and Zotero workflows.
 
@@ -370,6 +382,8 @@ Any tool combination that supports your writing process effectively is valid. Th
 
 ## Instructor Notes
 
+[*Back to Table of Contents*](#table-of-contents)
+
 **Implementation guidance:**
 
 - Note that this guide is written for students at the University of Pittsburgh. It may contain useful information for those in other contexts, but instructors may need to edit these materials to provide institution-specific guidance.
@@ -380,9 +394,9 @@ Any tool combination that supports your writing process effectively is valid. Th
 
 ---
 
-[**Back to Start of Chapter**](#your-writing-software-stack)
+[*Back to Table of Contents*](#table-of-contents)
 
-[**Back to Home**](https://billcprice3.github.io/authorship-and-ai/index.html)
+[*Back to Home Page*](https://billcprice3.github.io/authorship-and-ai/index.html)
 
 **License:** This chapter is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
