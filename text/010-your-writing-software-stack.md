@@ -12,6 +12,7 @@ chapter: 010
     * [Zotero](#zotero)
     * [Generative AI Tools](#generative-ai-tools)
     * [Virtual Student Computing Lab](#virtual-student-computing-lab)
+* [Alternatives Worth Considering](#alternatives-worth-considering)
 * [Instructor Notes](#instructor-notes)
 
 ---
@@ -326,6 +327,44 @@ You will be asked to sign in with your Pitt email address and password.
 Pitt Digital has a detailed guide with instructions for connecting from different devices (Windows, Mac, iPad, etc.) and answers to common questions. For a more detailed walkthrough, please see the official knowledge base article:
 
 🔗 [Virtual Student Computing Lab - Official Pitt Guide](https://services.pitt.edu/TDClient/33/Portal/KB/ArticleDet?ID=230)
+
+---
+
+## Alternatives Worth Considering
+
+The software stack described above represents a minimum viable setup that is widely used across academic contexts. However, different disciplines and individual preferences may favor alternative tools. This section briefly surveys other options worth knowing about, while noting that subsequent modules in this OER will focus specifically on Microsoft Word and Zotero workflows.
+
+### Alternative Desktop Word Processors
+
+#### LibreOffice Writer
+
+[LibreOffice](https://www.libreoffice.org/) is a free, open-source office suite that includes Writer, a word processor fully compatible with Microsoft Word's .docx format. LibreOffice works with Zotero's citation plugin and provides similar formatting capabilities to Word. It runs on Windows, macOS, and Linux. For users who prefer open-source software or need a no-cost alternative to Microsoft's subscription model, LibreOffice is a strong choice.
+
+#### OnlyOffice
+
+[OnlyOffice](https://www.onlyoffice.com/) is another free word processor with strong compatibility with Microsoft Word formats. It offers a clean interface and works with Zotero for citation management. OnlyOffice is available as desktop software and as a web-based collaborative platform.
+
+### Browser-Based Word Processors
+
+Both Microsoft Word Online (accessible through Office 365) and Google Docs provide browser-based word processing with real-time collaboration features. These tools are convenient for working across devices and for group projects. However, citation management workflows can be more complex in browser environments. Zotero offers a browser connector for saving sources, but the citation insertion process may be difficult or impossible on web or mobile versions of Word. Google Docs users may need to use the Zotero Google Docs plugin or export to Word for final citation formatting.
+
+### LaTeX Workflows
+
+For technical fields including mathematics, computer science, and physics, many researchers prefer LaTeX, a markup-based typesetting system that excels at handling complex equations, technical diagrams, and precise formatting. [Overleaf](https://www.overleaf.com/) is a popular web-based LaTeX editor that enables real-time collaboration. For citation management in LaTeX, BibTeX and BibLaTeX are the standard tools, offering powerful but syntax-intensive bibliography management. While LaTeX provides exceptional control over document formatting, it has a steeper learning curve than Word and may not be appropriate for all writing contexts.
+
+### Alternative Citation Managers
+
+#### Mendeley
+
+[Mendeley](https://www.mendeley.com/) is a widely-used citation manager with social networking features for researchers. It offers similar functionality to Zotero, including PDF management and Word integration. Mendeley is owned by Elsevier and is free for individual use, though not open source. In my own experience, Mendeley's APA 7th Edition output has contained considerably more errors and issues than Zotero' output, which is one reason I prefer the latter program.
+
+#### EndNote
+
+[EndNote](https://endnote.com/) is a commercial citation manager popular in some research fields, particularly the sciences. It offers robust features but requires a paid license. Some universities provide institutional access, but individual licenses can be expensive. Zotero provides comparable functionality at no cost.
+
+### Closing Note
+
+Any tool combination that supports your writing process effectively is valid. This OER focuses on Microsoft Word and Zotero because they represent the most common academic writing stack, are freely available to most university students, and offer strong accessibility features and cross-platform compatibility. Instructors adapting these materials for other contexts should feel free to modify tool recommendations based on disciplinary norms and institutional resources in your program.
 
 ---
 
