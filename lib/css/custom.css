@@ -53,3 +53,11 @@ mark.ex-quote       { --mark-background-color: #c2e0f4; --mark-color: #1a1a1a; c
     padding: 0.5rem; margin-bottom: 1rem;
     font-size: 0.9rem;
 }
+
+.thesis-legend span { padding: .125rem .5rem; color: #1a1a1a; }
+.thesis-legend .thesis-topic  { background-color: #fbeeb8; }
+.thesis-legend .thesis-claim  { background-color: #c2e0f4; }
+.thesis-legend .thesis-point1 { background-color: #bfedd2; }
+.thesis-legend .thesis-point2 { background-color: #f8cac6; }
+.thesis-legend .thesis-point3 { background-color: #eccafa; }
+.thesis-legend .ex-quote      { background-color: #c2e0f4; }
