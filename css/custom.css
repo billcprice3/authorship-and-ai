@@ -23,12 +23,12 @@
     }
 }
 
-mark.thesis-topic   { background-color: #fbeeb8 !important; color: inherit; }
-mark.thesis-claim   { background-color: #c2e0f4 !important; color: inherit; }
-mark.thesis-point1  { background-color: #bfedd2 !important; color: inherit; }
-mark.thesis-point2  { background-color: #f8cac6 !important; color: inherit; }
-mark.thesis-point3  { background-color: #eccafa !important; color: inherit; }
-mark.ex-quote       { background-color: #c2e0f4 !important; color: inherit; }
+mark.thesis-topic   { --mark-background-color: #fbeeb8; --mark-color: inherit; }
+mark.thesis-claim   { --mark-background-color: #c2e0f4; --mark-color: inherit; }
+mark.thesis-point1  { --mark-background-color: #bfedd2; --mark-color: inherit; }
+mark.thesis-point2  { --mark-background-color: #f8cac6; --mark-color: inherit; }
+mark.thesis-point3  { --mark-background-color: #eccafa; --mark-color: inherit; }
+mark.ex-quote       { --mark-background-color: #c2e0f4; --mark-color: inherit; }
 
 .thesis-legend { 
     display: flex; gap: 1rem; flex-wrap: wrap;
