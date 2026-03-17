@@ -186,7 +186,7 @@ This section lists some additional state-of-the-art ("frontier") AI tools. These
 
 ##### ChatGPT (OpenAI) (🇺🇸)
 
-**Website:** [https://chatgpt.com])(https://chatgpt.com)
+**Website:** [https://chatgpt.com](https://chatgpt.com)
 
 - Create a free account using your email address.
 - Requires an internet connection to use, but has a first-party desktop
