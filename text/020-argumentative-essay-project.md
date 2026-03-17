@@ -108,13 +108,7 @@ Second, and most importantly, your introduction ends with your **thesis statemen
 
 In the color-coded examples below, each component of the thesis is highlighted:
 
-<div class="thesis-legend">
-  <span class="thesis-topic">■ Topic</span>
-  <span class="thesis-claim">■ Controlling Idea</span>
-  <span class="thesis-point1">■ Key Point 1</span>
-  <span class="thesis-point2">■ Key Point 2</span>
-  <span class="thesis-point3">■ Key Point 3</span>
-</div>
+<mark class="thesis-topic">■ Topic</mark> <mark class="thesis-claim">■ Controlling Idea</mark> <mark class="thesis-point1">■ Key Point 1</mark> <mark class="thesis-point2">■ Key Point 2</mark> <mark class="thesis-point3">■ Key Point 3</mark>
 
 **Example Thesis Statement 1:** <mark class="thesis-topic">Social media platforms like Instagram and TikTok</mark> <mark class="thesis-claim">threaten the mental health of young adults</mark> because they <mark class="thesis-point1">create a culture of constant social comparison</mark>, <mark class="thesis-point2">disrupt healthy sleep patterns</mark>, and <mark class="thesis-point3">expose users to cyberbullying</mark>.
 
@@ -149,12 +143,6 @@ Every body paragraph needs:
 > - To introduce evidence: "**For example,**" "**According to Smith (2023),**" "**As the article explains,**"
 
 In the example below, <mark class="thesis-point1">paraphrases</mark>, <mark class="ex-quote">direct quotations</mark>, and <mark class="thesis-topic">in-text citations</mark> are highlighted.
-
-<div class="thesis-legend">
-  <span class="thesis-point1">■ Paraphrase</span>
-  <span class="ex-quote">■ Direct Quotation</span>
-  <span class="thesis-topic">■ In-text Citation</span>
-</div>
 
 ##### Example full body paragraph
 
