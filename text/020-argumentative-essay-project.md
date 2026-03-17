@@ -110,7 +110,7 @@ Second, and most importantly, your introduction ends with your **thesis statemen
 
 In the color-coded examples below, each component of the thesis is highlighted:
 
-<mark class="thesis-topic">Topic</mark>, <mark class="thesis-claim">Controlling Idea</mark>,  <mark class="thesis-point1">Key Point 1</mark>, <mark class="thesis-point2">Key Point 2</mark>, <mark class="thesis-point3">Key Point 3</mark>
+<mark class="thesis-topic">Topic</mark>, <mark class="thesis-claim">Controlling Idea</mark>, <mark class="thesis-point1">Key Point 1</mark>, <mark class="thesis-point2">Key Point 2</mark>, <mark class="thesis-point3">Key Point 3</mark>
 
 **Example Thesis Statement 1:** <mark class="thesis-topic">Social media platforms like Instagram and TikTok</mark> <mark class="thesis-claim">threaten the mental health of young adults</mark> because they <mark class="thesis-point1">create a culture of constant social comparison</mark>, <mark class="thesis-point2">disrupt healthy sleep patterns</mark>, and <mark class="thesis-point3">expose users to cyberbullying</mark>.
 
