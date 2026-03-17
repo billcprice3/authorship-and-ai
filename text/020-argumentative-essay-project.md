@@ -4,6 +4,8 @@ chapter: 020
 
 # Argumentative Essay Project
 
+## NOTE - theese are draft materials in progress - not for use - placed here in order to debug the rendering of highlighted text
+
 ## Table of Contents
 
 --
