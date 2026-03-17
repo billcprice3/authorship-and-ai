@@ -24,12 +24,12 @@
 }
 
 /* Light/default mark colors */
-mark.thesis-topic   { --mark-background-color: #fbeeb8; --mark-color: #1a1a1a; }
-mark.thesis-claim   { --mark-background-color: #c2e0f4; --mark-color: #1a1a1a; }
-mark.thesis-point1  { --mark-background-color: #bfedd2; --mark-color: #1a1a1a; }
-mark.thesis-point2  { --mark-background-color: #f8cac6; --mark-color: #1a1a1a; }
-mark.thesis-point3  { --mark-background-color: #eccafa; --mark-color: #1a1a1a; }
-mark.ex-quote       { --mark-background-color: #c2e0f4; --mark-color: #1a1a1a; }
+mark.thesis-topic   { --mark-background-color: #fbeeb8; --mark-color: #1a1a1a; color: #1a1a1a; }
+mark.thesis-claim   { --mark-background-color: #c2e0f4; --mark-color: #1a1a1a; color: #1a1a1a; }
+mark.thesis-point1  { --mark-background-color: #bfedd2; --mark-color: #1a1a1a; color: #1a1a1a; }
+mark.thesis-point2  { --mark-background-color: #f8cac6; --mark-color: #1a1a1a; color: #1a1a1a; }
+mark.thesis-point3  { --mark-background-color: #eccafa; --mark-color: #1a1a1a; color: #1a1a1a; }
+mark.ex-quote       { --mark-background-color: #c2e0f4; --mark-color: #1a1a1a; color: #1a1a1a; }
 
 /* Dark mode: same background colors, same dark text */
 [data-theme="dark"] mark.thesis-topic,
@@ -37,7 +37,7 @@ mark.ex-quote       { --mark-background-color: #c2e0f4; --mark-color: #1a1a1a; }
 [data-theme="dark"] mark.thesis-point1,
 [data-theme="dark"] mark.thesis-point2,
 [data-theme="dark"] mark.thesis-point3,
-[data-theme="dark"] mark.ex-quote { --mark-color: #1a1a1a; }
+[data-theme="dark"] mark.ex-quote { --mark-color: #1a1a1a; color: #1a1a1a; }
 
 @media (prefers-color-scheme: dark) {
     [data-theme="auto"] mark.thesis-topic,
@@ -45,7 +45,7 @@ mark.ex-quote       { --mark-background-color: #c2e0f4; --mark-color: #1a1a1a; }
     [data-theme="auto"] mark.thesis-point1,
     [data-theme="auto"] mark.thesis-point2,
     [data-theme="auto"] mark.thesis-point3,
-    [data-theme="auto"] mark.ex-quote { --mark-color: #1a1a1a; }
+    [data-theme="auto"] mark.ex-quote { --mark-color: #1a1a1a; color: #1a1a1a; }
 }
 
 .thesis-legend { 
