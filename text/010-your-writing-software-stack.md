@@ -130,13 +130,15 @@ If the Zotero tab does not appear in Word:
 
 This resource is designed to help you identify and access several of the most widely used and relevant Large Language Model-based AI tools (LLMs) available. Whether you're new to these tools or looking to explore beyond ChatGPT, this guide will provide you with the essentials: what each model is, how to access it, and how to start using it for academic and professional ideation tasks.
 
-This guide includes three categories of models:
+This guide includes four categories of models:
 
 1. Tools Provided by [Generative AI @ Pitt](https://www.technology.pitt.edu/ai) (university-supported tools with secure access for institutional use)
 
 2. Other Frontier Models (freely accessible, web-based models not administered by the university)
 
-3. Local Models (runs on your own device for complete privacy and offline use)
+3. Local Models on Desktop/Laptop (runs on your own device for complete privacy and offline use)
+
+4. Local Models on Mobile Devices (a still-emerging format similar to, but generally less capable than, the local models on desktop/laptop)
 
 ---
 
@@ -259,6 +261,8 @@ Running models locally provides:
 
 While local models may be slower or less capable than frontier models, they offer valuable security and flexibility and can be a useful part of your academic and professional toolkit.
 
+---
+
 #### 4. Local Models on Mobile with PocketPal AI
 
 As of 2026, it has become increasingly possible and practical to run local Language Models on mobile devices such as smartphones and tablets. However, in general, only quite small models (up to perhaps 2 billion active parameters) will be usable within the memory constraints of a typical mobile device, and acceptable speed and performance will be limited to newer or higher-end devices.
@@ -268,6 +272,8 @@ One popular chat interface for running local Language Models on mobile devices i
 Inside of PocketPal AI, users can search for appropriate AI models to run. On an iPhone 17 Pro, I found that the model [gemma-4-E2B-it-Q4_K_M](https://huggingface.co/unsloth/gemma-4-E2B-it-GGUF) (in GGUF form, as packaged by [Unsloth](https://huggingface.co/unsloth)) performed very well and produced acceptable output for general purposes.
 
 Given the memory constraints of mobile devices and the limited sophistication of small Language Models, I would *not* consider this workflow to be ideal for professional or academic work. However, although this option for local AI inference pushes the limits of what the hardware and software ecosystem can currently provide as of 2026, it is plausible that this will soon be a robust, mainstream option for AI usage. A typical mobile device of model year 2030 may plausibly come pre-configured with local, private AI models that approximate the abilities of 2026's frontier models such as ChatGPT, Claude, and Gemini, usable without any internet connection and running solely on local hardware.
+
+---
 
 #### Installing a web-based AI tool as a desktop app
 
