@@ -210,7 +210,7 @@ This section lists some additional state-of-the-art ("frontier") AI tools. These
 
 ---
   
-#### 3. Local Models with LM Studio
+#### 3. Local Models on Desktop/Laptop with LM Studio
 
 While frontier models like ChatGPT, Claude, and DeepSeek run entirely in the cloud, it’s also possible to run large language models locally on your own computer. This gives you more control over your data and allows for offline use. The easiest way to get started is with a tool called **LM Studio**.
 
@@ -258,6 +258,16 @@ Running models locally provides:
 - **Offline access:** No internet connection is needed once the model is downloaded.
 
 While local models may be slower or less capable than frontier models, they offer valuable security and flexibility and can be a useful part of your academic and professional toolkit.
+
+#### 4. Local Models on Mobile with PocketPal AI
+
+As of 2026, it has become increasingly possible and practical to run local Language Models on mobile devices such as smartphones and tablets. However, in general, only quite small models (up to perhaps 2 billion active parameters) will be usable within the memory constraints of a typical mobile device, and acceptable speed and performance will be limited to newer or higher-end devices.
+
+One popular chat interface for running local Language Models on mobile devices is provided by [PocketPal AI](https://github.com/a-ghorbani/pocketpal-ai), which is an open-source project which publishes apps for both iOS and Android. Similar to LM Studio mentioned in section 3 above, PocketPal AI is not itself a language model or chatbot. Rather, it implements the open-source llama.cpp runtime and provides a chat interface through which to interact with language models that the user downloads.
+
+Inside of PocketPal AI, users can search for appropriate AI models to run. On an iPhone 17 Pro, I found that the model [gemma-4-E2B-it-Q4_K_M](https://huggingface.co/unsloth/gemma-4-E2B-it-GGUF) (in GGUF form, as packaged by [Unsloth](https://huggingface.co/unsloth)) performed very well and produced acceptable output for general purposes.
+
+Given the memory constraints of mobile devices and the limited sophistication of small Language Models, I would *not* consider this workflow to be ideal for professional or academic work. However, although this option for local AI inference pushes the limits of what the hardware and software ecosystem can currently provide as of 2026, it is plausible that this will soon be a robust, mainstream option for AI usage. A typical mobile device of model year 2030 may plausibly come pre-configured with local, private AI models that approximate the abilities of 2026's frontier models such as ChatGPT, Claude, and Gemini, usable without any internet connection and running solely on local hardware.
 
 #### Installing a web-based AI tool as a desktop app
 
