@@ -147,11 +147,12 @@
 <h4 id="generative-ai-tools">Generative AI Tools</h4>
 <p><a href="#table-of-contents"><em>Back to Table of Contents</em></a></p>
 <p>This resource is designed to help you identify and access several of the most widely used and relevant Large Language Model-based AI tools (LLMs) available. Whether you’re new to these tools or looking to explore beyond ChatGPT, this guide will provide you with the essentials: what each model is, how to access it, and how to start using it for academic and professional ideation tasks.</p>
-<p>This guide includes three categories of models:</p>
+<p>This guide includes four categories of models:</p>
 <ol type="1">
 <li><p>Tools Provided by <a href="https://www.technology.pitt.edu/ai">Generative AI @ Pitt</a> (university-supported tools with secure access for institutional use)</p></li>
 <li><p>Other Frontier Models (freely accessible, web-based models not administered by the university)</p></li>
-<li><p>Local Models (runs on your own device for complete privacy and offline use)</p></li>
+<li><p>Local Models on Desktop/Laptop (runs on your own device for complete privacy and offline use)</p></li>
+<li><p>Local Models on Mobile Devices (a still-emerging format similar to, but generally less capable than, the local models on desktop/laptop)</p></li>
 </ol>
 <hr />
 <h5 id="tools-provided-by-generative-ai-pitt">1. Tools Provided by Generative AI @ Pitt</h5>
@@ -241,11 +242,13 @@
 <li><strong>Offline access:</strong> No internet connection is needed once the model is downloaded.</li>
 </ul>
 <p>While local models may be slower or less capable than frontier models, they offer valuable security and flexibility and can be a useful part of your academic and professional toolkit.</p>
+<hr />
 <h5 id="local-models-on-mobile-with-pocketpal-ai">4. Local Models on Mobile with PocketPal AI</h5>
 <p>As of 2026, it has become increasingly possible and practical to run local Language Models on mobile devices such as smartphones and tablets. However, in general, only quite small models (up to perhaps 2 billion active parameters) will be usable within the memory constraints of a typical mobile device, and acceptable speed and performance will be limited to newer or higher-end devices.</p>
 <p>One popular chat interface for running local Language Models on mobile devices is provided by <a href="https://github.com/a-ghorbani/pocketpal-ai">PocketPal AI</a>, which is an open-source project which publishes apps for both iOS and Android. Similar to LM Studio mentioned in section 3 above, PocketPal AI is not itself a language model or chatbot. Rather, it implements the open-source llama.cpp runtime and provides a chat interface through which to interact with language models that the user downloads.</p>
 <p>Inside of PocketPal AI, users can search for appropriate AI models to run. On an iPhone 17 Pro, I found that the model <a href="https://huggingface.co/unsloth/gemma-4-E2B-it-GGUF">gemma-4-E2B-it-Q4_K_M</a> (in GGUF form, as packaged by <a href="https://huggingface.co/unsloth">Unsloth</a>) performed very well and produced acceptable output for general purposes.</p>
 <p>Given the memory constraints of mobile devices and the limited sophistication of small Language Models, I would <em>not</em> consider this workflow to be ideal for professional or academic work. However, although this option for local AI inference pushes the limits of what the hardware and software ecosystem can currently provide as of 2026, it is plausible that this will soon be a robust, mainstream option for AI usage. A typical mobile device of model year 2030 may plausibly come pre-configured with local, private AI models that approximate the abilities of 2026’s frontier models such as ChatGPT, Claude, and Gemini, usable without any internet connection and running solely on local hardware.</p>
+<hr />
 <h5 id="installing-a-web-based-ai-tool-as-a-desktop-app">Installing a web-based AI tool as a desktop app</h5>
 <p>Many of the most powerful and up-to-date Large Language Models (LLMs), like Google Gemini and DeepSeek Chat, do not offer a desktop application and are accessed through a web browser. While this makes them universally accessible, it can also mean your AI assistant gets lost in a sea of open tabs.</p>
 <p>A better experience can be achieved using a dedicated, standalone application that you can launch directly from your Windows Taskbar or macOS Dock.</p>
