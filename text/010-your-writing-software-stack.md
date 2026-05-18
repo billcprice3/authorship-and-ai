@@ -19,11 +19,11 @@ chapter: 010
 
 ## Overview
 
-In this course, you’ll be expected to learn and use a small set of tools that work together to support academic writing. Similar to how software engineers use a specific combination of tools (like a code editor, version control system, and testing environment), we’ll use a “stack” of writing software that helps with research, formatting, citation, and even idea generation. These tools are not just for this class. They are the kinds of software that many graduate students and researchers use every day in real academic and professional work.
+In this course, you will have the opportunity to learn and use a set of professional tools that work together to support academic writing. Similar to how software engineers use a specific combination of tools (like a code editor, version control system, and testing environment), we’ll use a “stack” of writing software that helps with research, formatting, citation, and even idea generation. These tools are not just for this class. They are the kinds of software that many graduate students and researchers use every day in real academic and professional work.
 
-Each tool plays a different role in the writing process. You don’t need to be an expert right away, and we’ll be using them step by step. Think of this as part of your academic toolkit, helping you not just to write papers, but to manage sources, stay organized, and become more confident in your writing process.
+Each tool plays a different role in the writing process. You don’t need to be an expert right away, and we’ll be incorporating each tool step by step as we need it in the projects we pursue. Think of this as part of your academic toolkit, helping you not just to write papers, but to manage sources, stay organized, and become more confident in your writing process.
 
-Note that this guide is written for students at the University of Pittsburgh. It may contain useful information for those in other contexts, but instructors may need to edit these materials to provide institution-specific guidance.
+Note that this guide is written for students at the University of Pittsburgh. It may contain useful information for those in other contexts, but instructors elsewhere may need to edit these materials to provide institution-specific guidance.
 
 ### Hardware requirements
 
@@ -45,7 +45,7 @@ This course assumes you have access to a computer with a desktop operating syste
 
 Before we move forward in the course, it's important to make sure your writing tools are set up and ready.
 
-1. Click on the link to [PittCat](https://pittcat.pitt.edu/). Bookmark the website so that you can find it again easily in the future.
+1. Click on the link to our university's library catalog, [PittCat](https://pittcat.pitt.edu/). Bookmark the website so that you can find it again easily in the future.
 
 2. Then, follow the guides to install [Microsoft Word](#microsoft-word-and-powerpoint), [PowerPoint](#microsoft-word-and-powerpoint), and [Zotero](#microsoft-word-and-powerpoint). (You don't need to install any local AI tools unless you're curious.)
 
