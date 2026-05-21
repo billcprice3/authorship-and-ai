@@ -22,9 +22,9 @@ In this module, ...
 
 In this first part of the activity, we will explore the powerful connection between a text and its author.
 
-![A photograph of Sojurner Truth, a Black woman dressed in clothing from the 1800s.](images/50-sojourner-truth.png "Sojourner Truth. I Sell the Shadow to Support the Substance. 1864. The Alfred Whital Stern Collection of Lincolniana. Library of Congress Rare Book And Special Collections Division.")
+![A photograph of Sojurner Truth, a Black woman dressed in clothing from the 1800s.](images/050-sojourner-truth.jpg "Sojourner Truth. I Sell the Shadow to Support the Substance. 1864. The Alfred Whital Stern Collection of Lincolniana. Library of Congress Rare Book And Special Collections Division.")
 
-**Image:** Sojourner Truth. I Sell the Shadow to Support the Substance. 1864. The Alfred Whital Stern Collection of Lincolniana. Library of Congress Rare Book And Special Collections Division.
+**Image:** Sojourner Truth. I Sell the Shadow to Support the Substance. 1864. The Alfred Whital Stern Collection of Lincolniana. [Library of Congress Rare Book And Special Collections Division](https://www.loc.gov/item/scsm000880/). Public domain image.
 
 
 **Sojourner Truth (1797-1883): Ain't I A Woman?**
@@ -43,7 +43,7 @@ In this first part of the activity, we will explore the powerful connection betw
 
 > Obliged to you for hearing me, and now old Sojourner ain't got nothing more to say.
 
-*
+*Adapted from [Sojourner Truth: Ain't I A Woman?, Women's Rights National Historical Park, National Park Service](https://www.nps.gov/articles/sojourner-truth.htm). Public domain text.*
 
 
 
