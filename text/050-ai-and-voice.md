@@ -26,6 +26,9 @@ In this first part of the activity, we will explore the powerful connection betw
 
 **Image:** Sojourner Truth. I Sell the Shadow to Support the Substance. 1864. The Alfred Whital Stern Collection of Lincolniana. [Library of Congress Rare Book And Special Collections Division](https://www.loc.gov/item/scsm000880/). Public domain image.
 
+Watch this video, [Sojourner Truth’s “Ain’t I a Woman” Performed by Kerry Washington](https://www.youtube.com/watch?v=Ry_i8w2rdQY), from [ZinnEdProject](https://www.youtube.com/@ZinnEdProject). You can follow along with the text below.
+
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=Ry_i8w2rdQY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Sojourner Truth (1797-1883): Ain't I A Woman?**
 
