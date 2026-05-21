@@ -28,7 +28,7 @@ In this first part of the activity, we will explore the powerful connection betw
 
 Watch this video, [Sojourner Truth’s “Ain’t I a Woman” Performed by Kerry Washington](https://www.youtube.com/watch?v=Ry_i8w2rdQY), from [ZinnEdProject](https://www.youtube.com/@ZinnEdProject). You can follow along with the text below.
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=Ry_i8w2rdQY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ry_i8w2rdQY?si=SiIDJ1KYoc1ouZ8s&amp;start=17" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 **Sojourner Truth (1797-1883): Ain't I A Woman?**
 
