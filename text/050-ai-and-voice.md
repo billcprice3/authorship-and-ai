@@ -22,7 +22,7 @@ In this module, ...
 
 In this first part of the activity, we will explore the powerful connection between a text and its author.
 
-![A photograph of Sojurner Truth, a Black woman dressed in clothing from the 1800s.](images/050-sojourner-truth.jpg "Sojourner Truth. I Sell the Shadow to Support the Substance. 1864. The Alfred Whital Stern Collection of Lincolniana. Library of Congress Rare Book And Special Collections Division.")
+![A photograph of Sojurner Truth, a Black woman dressed in clothing from the 1800s.](images/050-sojourner-truth.jpg)
 
 **Image:** Sojourner Truth. I Sell the Shadow to Support the Substance. 1864. The Alfred Whital Stern Collection of Lincolniana. [Library of Congress Rare Book And Special Collections Division](https://www.loc.gov/item/scsm000880/). Public domain image.
 
