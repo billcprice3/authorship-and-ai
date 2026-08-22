@@ -168,9 +168,9 @@ The University of Pittsburgh provides access to several generative AI platforms 
 - Can generate text, assist with brainstorming, and interact with Google Drive files (Docs, Sheets, Slides, etc.)
 - Requires an internet connection to use, but can be installed as a local web application: see [Installing a web-based AI tool as a desktop app](#installing-a-web-based-ai-tool-as-a-desktop-app)
 
-##### Google NotebookLM (🇺🇸)
+##### Google Gemini Notebook (🇺🇸)
 
-**Access:** [https://notebooklm.google.com](https://notebooklm.google.com) using your Pitt email
+**Access:** [https://notebook.google.com](https://notebook.google.com) using your Pitt email
 address
 
 - An AI research assistant; an interface where you can upload your own documents (such as research papers) to do document-based tasks, such as summarizing and answering questions
